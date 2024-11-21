@@ -76,3 +76,6 @@ crashlytics-build.properties
 /Packages/com.vrchat.core.vpm-resolver
 /Packages
 /Assets/UdonSharp
+/ProjectSettings
+/Assets/UdonSharp
+/Assets/SerializedUdonPrograms
