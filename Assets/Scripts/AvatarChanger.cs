@@ -20,11 +20,17 @@ public class AvatarChanger : UdonSharpBehaviour
     }
     public void AvatarChange()
     {
-        if (avatarId == null) return;
+        if (avatarId == null && avatarName == null)
+        {
+            field.text = "Недопустимый аватар";
+            return;
+        }
         pedestal.blueprintId = avatarId;
+        SendCustomEventDelayedSeconds("DelayedAvatarChange", 0.5f);             
+    }
+    public void DelayedAvatarChange()
+    {
         pedestal.SetAvatarUse(Networking.LocalPlayer);
-
-        if (avatarName == null) return;
         field.text = "Текущий аватар: " + avatarName;
     }
 }
