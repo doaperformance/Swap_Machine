@@ -4,6 +4,7 @@ using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 using TMPro;
+using UnityEngine.UI;
 
 public class AvatarChanger : UdonSharpBehaviour
 {
@@ -12,6 +13,7 @@ public class AvatarChanger : UdonSharpBehaviour
 
     public string avatarName;
     public TextMeshProUGUI field;
+    public Toggle nonChangeAvi;
 
 
     void OnEnable()
@@ -26,11 +28,15 @@ public class AvatarChanger : UdonSharpBehaviour
             return;
         }
         pedestal.blueprintId = avatarId;
-        SendCustomEventDelayedSeconds("DelayedAvatarChange", 0.5f);             
+        SendCustomEventDelayedSeconds("DelayedAvatarChange", 1f);             
     }
     public void DelayedAvatarChange()
     {
-        pedestal.SetAvatarUse(Networking.LocalPlayer);
-        field.text = "Текущий аватар: " + avatarName;
+        if (!nonChangeAvi.isOn)
+        {
+            pedestal.SetAvatarUse(Networking.LocalPlayer);
+            Networking.LocalPlayer.SetAvatarEyeHeightByMeters(1.6f);
+            field.text = "Текущий аватар: " + avatarName;
+        }        
     }
 }
