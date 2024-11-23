@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: c481f9aceeb218d49ac50de72feb2d91
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites-Stars_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 427
+        width: 331
+        height: 554
+      alignment: 9
+      pivot: {x: 0.50235033, y: 0.0015004292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a164be927fd9e9408619058c5031c87
+      internalID: 1318023934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Stars_4
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 306
+        width: 112
+        height: 108
+      alignment: 9
+      pivot: {x: 0.46972057, y: 0.590838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a8e9e9eb4931458a71de43589517d
+      internalID: -2090129045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Stars_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 323
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b374cf28935fc148baa04166d1db234
+      internalID: -1194933124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Stars_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 80
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c48179f5cb9f54c9c8fae3f34818e7
+      internalID: 1607941100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Stars_16
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 72
+        width: 131
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178044c4f5e617d45ae31878b5a2779f
+      internalID: 830179080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Stars_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 64
+        width: 120
+        height: 159
+      alignment: 9
+      pivot: {x: 0.48586935, y: 0.54798967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60a4f9fafb45b247bb16fcb1fc47119
+      internalID: 1007021855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Stars_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 435
+        width: 315
+        height: 539
+      alignment: 9
+      pivot: {x: 0.49753046, y: -0.0008259563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004c3caaa0212c4b8b926cf34a73d14
+      internalID: 873610104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fcb42b8fc5083c544a9c3f76e4d03d15
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprites-Stars_0: 1318023934
+      Sprites-Stars_1: 873610104
+      Sprites-Stars_10: 956829337
+      Sprites-Stars_11: 1601075292
+      Sprites-Stars_12: 1806840340
+      Sprites-Stars_13: 417669545
+      Sprites-Stars_14: 1607941100
+      Sprites-Stars_15: -903374355
+      Sprites-Stars_16: 830179080
+      Sprites-Stars_17: 1007021855
+      Sprites-Stars_18: -1324008146
+      Sprites-Stars_19: -849407598
+      Sprites-Stars_2: 1859614173
+      Sprites-Stars_20: 993399833
+      Sprites-Stars_21: -1641322520
+      Sprites-Stars_22: 411442025
+      Sprites-Stars_23: 576049591
+      Sprites-Stars_24: -89919505
+      Sprites-Stars_25: -1817107709
+      Sprites-Stars_26: -1069404238
+      Sprites-Stars_3: 558901467
+      Sprites-Stars_4: -2090129045
+      Sprites-Stars_5: 1636121891
+      Sprites-Stars_6: -1194933124
+      Sprites-Stars_7: 470144417
+      Sprites-Stars_8: -670292176
+      Sprites-Stars_9: 302862116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

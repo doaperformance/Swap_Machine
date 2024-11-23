@@ -1,0 +1,3057 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &41268950823796179
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5304217677620182557}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftA_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5304217677620182557
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 41268950823796179}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000016686585, y: -0.000000030108158, z: -0.018040394, w: 0.9998373}
+  m_LocalPosition: {x: -0.119933866, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9157067758303407221}
+  m_Father: {fileID: 3793141181735341838}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &88102391945869787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5009575213276799807}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftC_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5009575213276799807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88102391945869787}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.17332523, y: 0.6226176, z: 0.70990425, w: -0.2798959}
+  m_LocalPosition: {x: -0.002634039, y: 0.025418911, z: -0.06800001}
+  m_LocalScale: {x: 0.9999998, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3790168901348250111}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -78.82, y: -31.897, z: -110.535}
+--- !u!1 &108070509671275613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1229021916454328212}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightC_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1229021916454328212
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108070509671275613}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007819477, y: -0.022851538, z: 0.021754649, w: 0.99947155}
+  m_LocalPosition: {x: -0.09230178, y: -0.000000028323658, z: 0.000000006033529}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2156080879604547369}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &228928584321296819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5995986383245861640}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightA_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5995986383245861640
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 228928584321296819}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000023764714, y: -0.000000028350469, z: 0.031323984, w: 0.9995093}
+  m_LocalPosition: {x: -0.07561383, y: 0.000000010430813, z: -0.000000007633296}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7022719867803104006}
+  m_Father: {fileID: 715836902172915902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &293938368162983122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8214998556299889116}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftB_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8214998556299889116
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 293938368162983122}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.017612843, y: 0.00019719501, z: -0.0125065325, w: 0.99976665}
+  m_LocalPosition: {x: -0.07561387, y: 0, z: 0.000000009536743}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7329132338561449604}
+  m_Father: {fileID: 2712401347038039480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &588193781360659331
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7061965620714228426}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftB_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7061965620714228426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 588193781360659331}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.003358195, y: 0.00022347526, z: -0.04425889, w: 0.99901444}
+  m_LocalPosition: {x: -0.11058201, y: 0, z: -0.000000009536743}
+  m_LocalScale: {x: 1.0000002, y: 0.9999997, z: 0.99999976}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3592173009136917946}
+  m_Father: {fileID: 7329132338561449604}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &644975235861409183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8449277347786295963}
+  m_Layer: 0
+  m_Name: HumboldtSquid_Mantle_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8449277347786295963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644975235861409183}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.02810073, y: 0.26242393, z: 0.5672795, w: 0.7800885}
+  m_LocalPosition: {x: -0.2048479, y: 0.000000071041285, z: 0.000000024384446}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7360886453582334775}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -19.973, y: 23.685, z: 67.82}
+--- !u!1 &740808590866592601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7715713985700063689}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftC_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7715713985700063689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 740808590866592601}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.015374913, y: 0.0071084476, z: 0.017565848, w: 0.9997023}
+  m_LocalPosition: {x: -0.09463094, y: 0.00000015258789, z: 0.000000028610229}
+  m_LocalScale: {x: 1, y: 1.0000002, z: 1.0000004}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 685384875930271025}
+  m_Father: {fileID: 1481344337546478786}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &858831960065146883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2882181081681596005}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleRight_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2882181081681596005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 858831960065146883}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000007673497, y: 0.0117981145, z: -0.0000024478788, w: 0.99993044}
+  m_LocalPosition: {x: -0.15004359, y: 0.000000019073486, z: -0.0000000017881393}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2811297848808216156}
+  m_Father: {fileID: 2711698491826562704}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &865822061027412673
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 715836902172915902}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightA_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &715836902172915902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 865822061027412673}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.012522519, y: 0.22978173, z: 0.9110164, w: 0.3421881}
+  m_LocalPosition: {x: -0.009243609, y: -0.068801284, z: 0.02773682}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5995986383245861640}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &883950639798778284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4013337469968032748}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleLeft_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4013337469968032748
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 883950639798778284}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000003895948, y: -0.0041495333, z: -0.00047583034, w: 0.9999913}
+  m_LocalPosition: {x: -0.19117042, y: -0.0000000047683715, z: -0.0000000011920929}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5455351352243236223}
+  m_Father: {fileID: 917308859139167565}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &896331493658385793
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6489705304002112590}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftB_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6489705304002112590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 896331493658385793}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.007822185, y: -0.018821295, z: -0.017915457, w: 0.99963176}
+  m_LocalPosition: {x: -0.07761398, y: 0.000000076293944, z: 0.000000028610229}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8410151841320708203}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &942974139900454922
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 250294765743604240}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightC_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &250294765743604240
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 942974139900454922}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.36746606, y: 0.71377414, z: 0.58214533, w: -0.12884867}
+  m_LocalPosition: {x: -0.002633972, y: 0.02541893, z: 0.06798412}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4922262320776949787}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -132.579, y: 64.713, z: 94.421}
+--- !u!1 &974349927892499373
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3608693029753947000}
+  m_Layer: 0
+  m_Name: HumboldtSquid_FinLeft_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3608693029753947000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 974349927892499373}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0.012934937, w: 0.9999164}
+  m_LocalPosition: {x: -0.07104973, y: 0.0000032143294, z: 7.105427e-17}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2024372471577949873}
+  m_Father: {fileID: 1386940242788081722}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &989324465079070583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2811297848808216156}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleRight_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2811297848808216156
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 989324465079070583}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000008605806, y: -0.0039969757, z: 0.001068947, w: 0.9999915}
+  m_LocalPosition: {x: -0.19114448, y: -0.000000021457671, z: -0.0000000047683715}
+  m_LocalScale: {x: 0.99999976, y: 0.9999998, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1764167424541809609}
+  m_Father: {fileID: 2882181081681596005}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1126767814290479661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7670689009063344789}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightA_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7670689009063344789
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126767814290479661}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000004384143, y: -0.000001059782, z: 0.036531594, w: 0.99933255}
+  m_LocalPosition: {x: -0.07866176, y: -0.00000001817938, z: 0.0000000017067162}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2044816027626308668}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1207761806748266858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 469425012451119963}
+  m_Layer: 0
+  m_Name: HumboldtSquid_Mantle_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &469425012451119963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1207761806748266858}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.0788156e-10, y: -0.0000000065229417, z: -0.03185313, w: 0.9994926}
+  m_LocalPosition: {x: -0.22911811, y: 0.000000028610238, z: 0.000000028041468}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1386940242788081722}
+  - {fileID: 2448488887466787271}
+  m_Father: {fileID: 7360886453582334775}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1327601274354230986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2156080879604547369}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightC_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2156080879604547369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327601274354230986}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.015374877, y: 0.007108451, z: -0.01756566, w: 0.9997023}
+  m_LocalPosition: {x: -0.094630934, y: -0.000000002738031, z: 0.000000012291882}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1229021916454328212}
+  m_Father: {fileID: 8677173333420632636}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1336318892261759281
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2461265345662424769}
+  m_Layer: 0
+  m_Name: HumboldtSquid_Syphon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2461265345662424769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1336318892261759281}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.03309965, y: 0.0023316292, z: -0.7886971, w: 0.6138859}
+  m_LocalPosition: {x: -0.14321052, y: 0.07703446, z: 0.000000014305114}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9099668768311481246}
+  - {fileID: 7852172126591392272}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -2.118, y: 3.159, z: -104.267}
+--- !u!1 &1462643661454827883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7081131665517150325}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftD_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7081131665517150325
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462643661454827883}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0065410472, y: -0.026994342, z: -0.025265398, w: 0.9992949}
+  m_LocalPosition: {x: -0.08936087, y: 0.00000015258789, z: -0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7518044666788985223}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1824715167503895783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3199870545073260927}
+  m_Layer: 0
+  m_Name: HumboldtSquid_BeakUpper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3199870545073260927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824715167503895783}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.012553362, w: 0.9999212}
+  m_LocalPosition: {x: -0.022638636, y: 0.0070906067, z: -0.0000000047683715}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8616882160173249841}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1831030541502000534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6544616287932218560}
+  m_Layer: 0
+  m_Name: HumboldtSquid_BeakLower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6544616287932218560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1831030541502000534}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.14436503, w: 0.98952454}
+  m_LocalPosition: {x: -0.02202071, y: -0.001689167, z: -0.0000000035762786}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8616882160173249841}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1890566033757862863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7022719867803104006}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightA_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7022719867803104006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890566033757862863}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000016686585, y: -0.00000003010812, z: 0.01804037, w: 0.9998373}
+  m_LocalPosition: {x: -0.11993391, y: 0.000000010281803, z: -2.2381755e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5119044960724138209}
+  m_Father: {fileID: 5995986383245861640}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1900975955551565767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 917308859139167565}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleLeft_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &917308859139167565
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1900975955551565767}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000020435818, y: 0.012146666, z: -0.0013478092, w: 0.9999253}
+  m_LocalPosition: {x: -0.15001939, y: -0.000000019073486, z: 0.0000000011920929}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4013337469968032748}
+  m_Father: {fileID: 5562385287505869022}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1971654168294472154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2712401347038039480}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftB_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2712401347038039480
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1971654168294472154}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.17475651, y: 0.8131222, z: 0.42822474, w: -0.35343444}
+  m_LocalPosition: {x: -0.0061611366, y: -0.030823937, z: -0.068000026}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8214998556299889116}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -124.922, y: 47.951004, z: -181.852}
+--- !u!1 &2051988319571806881
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8308055351513700064}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleRight_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8308055351513700064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2051988319571806881}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00006426971, y: 0.0049641035, z: 0.008738178, w: 0.9999495}
+  m_LocalPosition: {x: -0.16020904, y: 0, z: -0.0000000047683715}
+  m_LocalScale: {x: 0.99999964, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5303063189613804250}
+  m_Father: {fileID: 1764167424541809609}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2182316408389181658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6444462150650019724}
+  m_Layer: 0
+  m_Name: HumboldtSquid_FinLeft_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6444462150650019724
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2182316408389181658}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000009015378, y: 0.000000012481483, z: 0.013843333, w: 0.9999042}
+  m_LocalPosition: {x: -0.08288847, y: -0.0000097072125, z: 1.4210608e-15}
+  m_LocalScale: {x: 0.9999997, y: 0.9999997, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2024372471577949873}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2218053602285569024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7677763545650881893}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleRight_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7677763545650881893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2218053602285569024}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000002396222, y: 0.00000023401981, z: -0.018524753, w: 0.99982846}
+  m_LocalPosition: {x: -0.11521375, y: 0.00000007629392, z: 0.000000032633537}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5303063189613804250}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2234441863845454419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3790168901348250111}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftC_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3790168901348250111
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2234441863845454419}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.017613145, y: 0.0001934149, z: -0.0130180465, w: 0.9997601}
+  m_LocalPosition: {x: -0.0717912, y: -0.000000038146972, z: 0.0000000023841857}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6732372711632311476}
+  m_Father: {fileID: 5009575213276799807}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2245723704059250488
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2541893315269153673}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftA_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2541893315269153673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2245723704059250488}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000715008, y: 0.000000018823854, z: -0.026317656, w: 0.99965364}
+  m_LocalPosition: {x: -0.08795875, y: 0.000000038146972, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 1.0000004, z: 0.99999976}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1469313720729573013}
+  m_Father: {fileID: 4612802380256613346}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2421905884284741724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8677173333420632636}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightC_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8677173333420632636
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2421905884284741724}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.006456729, y: -0.001685934, z: 0.017897513, w: 0.99981755}
+  m_LocalPosition: {x: -0.09293312, y: -0.000000017145632, z: 0.0000000017110318}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2156080879604547369}
+  m_Father: {fileID: 9038062281117418286}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2441934471537236515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2866804309171211918}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightD_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2866804309171211918
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2441934471537236515}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.41568735, y: 0.89697915, z: 0.14069127, w: -0.053276967}
+  m_LocalPosition: {x: 0.00072300434, y: 0.06463047, z: 0.03004517}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 435362085701916723}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -12.011, y: 192.551, z: -51.054}
+--- !u!1 &2524847729722385431
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8734610510462706018}
+  m_Layer: 0
+  m_Name: HumboldtSquid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8734610510462706018
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2524847729722385431}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.65488625, y: -0.18674186, z: 0.17179726, w: 0.7118548}
+  m_LocalPosition: {x: 0.922, y: 0.737, z: -2.925}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7220399948668498026}
+  - {fileID: 2007072968195673576}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 85.226, y: -29.398, z: 0}
+--- !u!1 &2530343219842612943
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8304179517885647551}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleLeft_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8304179517885647551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2530343219842612943}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000023837772, y: -0.0000000044138098, z: 0.01851286, w: 0.99982864}
+  m_LocalPosition: {x: -0.11521372, y: -0.000000116825056, z: 1.490116e-10}
+  m_LocalScale: {x: 0.99999976, y: 0.99999976, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2538709293382875652}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2565123737751129913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9038062281117418286}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightC_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9038062281117418286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2565123737751129913}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.003345519, y: 0.00044519114, z: 0.048606277, w: 0.9988123}
+  m_LocalPosition: {x: -0.096047215, y: 0.000000019969864, z: 6.473243e-10}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8677173333420632636}
+  m_Father: {fileID: 9114513872491255343}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2724822732336260294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4612802380256613346}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftA_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4612802380256613346
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2724822732336260294}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000952552, y: 0.0000007167499, z: 0.0015676016, w: 0.9999988}
+  m_LocalPosition: {x: -0.08536197, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2541893315269153673}
+  m_Father: {fileID: 9157067758303407221}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2728554562549811646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7651661415504309736}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleLeft_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7651661415504309736
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2728554562549811646}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00006431179, y: 0.004964095, z: -0.008738687, w: 0.9999495}
+  m_LocalPosition: {x: -0.16020934, y: 0.000000014305114, z: -0.0000000017881393}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2538709293382875652}
+  m_Father: {fileID: 5455351352243236223}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2870659492451591787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7852172126591392272}
+  m_Layer: 0
+  m_Name: HumboldtSquid_SyphonFront
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7852172126591392272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2870659492451591787}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000020163954, y: -0.000000023041803, z: 0.09212121, w: 0.9957478}
+  m_LocalPosition: {x: -0.039956205, y: 0.034406036, z: 0.000000019073488}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2461265345662424769}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2875440498652985029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6682885993310723744}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightD_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6682885993310723744
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2875440498652985029}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0033483712, y: 0.00048352947, z: 0.035090156, w: 0.99937844}
+  m_LocalPosition: {x: -0.09573126, y: 0.000000020193392, z: 6.4732375e-10}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3942783590860050849}
+  m_Father: {fileID: 2097237784521269047}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2929725652375338815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3148513127937188339}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightB_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3148513127937188339
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2929725652375338815}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.14625415, y: 0.5785959, z: 0.74963033, w: 0.28616595}
+  m_LocalPosition: {x: -0.0061610793, y: -0.030823937, z: 0.06798412}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4835180507251631268}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3011541782875067630
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7244236175772655384}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftD_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7244236175772655384
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3011541782875067630}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0064717717, y: -0.0014444649, z: -0.00040979887, w: 0.99997795}
+  m_LocalPosition: {x: -0.09228733, y: 0, z: -0.000000019073486}
+  m_LocalScale: {x: 1, y: 0.9999997, z: 0.99999976}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7518044666788985223}
+  m_Father: {fileID: 4698079013929344732}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3144823792792070903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3592173009136917946}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftB_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3592173009136917946
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3144823792792070903}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.006466046, y: -0.0006798131, z: -0.010807897, w: 0.9999205}
+  m_LocalPosition: {x: -0.105384864, y: 0, z: -0.000000019073486}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8410151841320708203}
+  m_Father: {fileID: 7061965620714228426}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3389818573259813422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2538709293382875652}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleLeft_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2538709293382875652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3389818573259813422}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000745027, y: 0.0000009540244, z: 0.0045685642, w: 0.99998957}
+  m_LocalPosition: {x: -0.16423622, y: 0.000000009536743, z: -0.0000000017881393}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8304179517885647551}
+  m_Father: {fileID: 7651661415504309736}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3477123891657193312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5214009746994289742}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightD_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5214009746994289742
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3477123891657193312}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.015500034, y: 0.009554359, z: 0.017981246, w: 0.99967253}
+  m_LocalPosition: {x: -0.09116164, y: -0.000000002738023, z: 0.0000000120310935}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 312995334949089777}
+  m_Father: {fileID: 3942783590860050849}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3611677035742123586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 435362085701916723}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightD_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &435362085701916723
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611677035742123586}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.017612787, y: 0.00022088656, z: 0.015494385, w: 0.9997248}
+  m_LocalPosition: {x: -0.06039562, y: 0.0000000077486035, z: -0.00000000524911}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2097237784521269047}
+  m_Father: {fileID: 2866804309171211918}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3752184749574217222
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2227454164989350741}
+  m_Layer: 0
+  m_Name: HumboldtSquid_Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2227454164989350741
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3752184749574217222}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.5068369, y: 0.48066503, z: -0.4998483, w: 0.5120833}
+  m_LocalPosition: {x: -0, y: -0.21049076, z: 0.010092994}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5484466438643950278}
+  - {fileID: 2712401347038039480}
+  - {fileID: 5009575213276799807}
+  - {fileID: 1458975102652953507}
+  - {fileID: 715836902172915902}
+  - {fileID: 3148513127937188339}
+  - {fileID: 250294765743604240}
+  - {fileID: 2866804309171211918}
+  - {fileID: 8449277347786295963}
+  - {fileID: 8616882160173249841}
+  - {fileID: 2461265345662424769}
+  - {fileID: 5562385287505869022}
+  - {fileID: 2711698491826562704}
+  m_Father: {fileID: 7220399948668498026}
+  m_LocalEulerAnglesHint: {x: -2.21, y: 88.615, z: -90.772}
+--- !u!1 &4387992718181072827
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4698079013929344732}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftD_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4698079013929344732
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4387992718181072827}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0033484504, y: 0.00048377083, z: -0.035090152, w: 0.99937844}
+  m_LocalPosition: {x: -0.095731236, y: -0.000000038146972, z: 0.000000057220458}
+  m_LocalScale: {x: 0.99999976, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7244236175772655384}
+  m_Father: {fileID: 1929509833447407260}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4599087781969425056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 685384875930271025}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftC_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &685384875930271025
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4599087781969425056}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.007819607, y: -0.022851577, z: -0.021754889, w: 0.99947155}
+  m_LocalPosition: {x: -0.09230175, y: 0, z: 0.000000009536743}
+  m_LocalScale: {x: 0.99999994, y: 0.9999998, z: 0.9999995}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7715713985700063689}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4724165650498953167
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8616882160173249841}
+  m_Layer: 0
+  m_Name: HumboldtSquid_Mouth
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8616882160173249841
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4724165650498953167}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.022828175, y: 0.014597891, z: 0.9995622, w: -0.011882676}
+  m_LocalPosition: {x: 0.011711044, y: -0.00632637, z: -0.000000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6544616287932218560}
+  - {fileID: 3199870545073260927}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -1.703, y: 2.597, z: 181.324}
+--- !u!1 &4826913181438204092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5562385287505869022}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleLeft_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5562385287505869022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4826913181438204092}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12850855, y: 0.6749125, z: -0.72635585, w: -0.019642193}
+  m_LocalPosition: {x: 0.011982021, y: 0.0026305984, z: -0.049132075}
+  m_LocalScale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 917308859139167565}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: 80.232, y: 70.743, z: 238.672}
+--- !u!1 &4936384099167893236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7220399948668498026}
+  m_Layer: 0
+  m_Name: root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7220399948668498026
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4936384099167893236}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.9673563, y: 0.091617726, z: 0.21626484, w: 0.095170945}
+  m_LocalPosition: {x: -0.127, y: -0.141, z: 0.209}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2227454164989350741}
+  m_Father: {fileID: 8734610510462706018}
+  m_LocalEulerAnglesHint: {x: -167.07, y: 24.293, z: 8.026001}
+--- !u!1 &5260583401844509917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 428504563032694497}
+  m_Layer: 0
+  m_Name: HumboldtSquid_FinRight_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &428504563032694497
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5260583401844509917}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000065228547, y: -0.000000026615883, z: 0.012934802,
+    w: 0.9999164}
+  m_LocalPosition: {x: -0.07104976, y: -0.0000032806395, z: 0.0000000047683715}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1063804294608336625}
+  m_Father: {fileID: 2448488887466787271}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5356209306602457614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4835180507251631268}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightB_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4835180507251631268
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5356209306602457614}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.017613003, y: 0.00019711492, z: 0.012506949, w: 0.99976665}
+  m_LocalPosition: {x: -0.07561384, y: 0.000000010728836, z: -0.0000000073352724}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5400914985534242606}
+  m_Father: {fileID: 3148513127937188339}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5544635246880004700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5303063189613804250}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleRight_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5303063189613804250
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5544635246880004700}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000000501807, y: -0.00000033576814, z: -0.0045685708, w: 0.99998957}
+  m_LocalPosition: {x: -0.16423644, y: 0.000000009536743, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7677763545650881893}
+  m_Father: {fileID: 8308055351513700064}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5567477846869275311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3793141181735341838}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftA_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3793141181735341838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5567477846869275311}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000074682305, y: -0.00000023830158, z: -0.03132403,
+    w: 0.9995093}
+  m_LocalPosition: {x: -0.07561386, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5304217677620182557}
+  m_Father: {fileID: 5484466438643950278}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5586794912111822298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5400914985534242606}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightB_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5400914985534242606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5586794912111822298}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.01470676, y: 0.0007080692, z: 0.0068823206, w: 0.9998679}
+  m_LocalPosition: {x: -0.09805326, y: 0.0000000089267305, z: 2.9772274e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8179928642060587923}
+  m_Father: {fileID: 4835180507251631268}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5599676050251185038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1386940242788081722}
+  m_Layer: 0
+  m_Name: HumboldtSquid_FinLeft_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1386940242788081722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5599676050251185038}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.53612363, y: -0.455156, z: 0.4315036, w: 0.56498593}
+  m_LocalPosition: {x: -0.22021662, y: -0.033410642, z: -0.038661566}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3608693029753947000}
+  m_Father: {fileID: 469425012451119963}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5702973904198626168
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5090898321255434589}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightB_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5090898321255434589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5702973904198626168}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007821997, y: -0.018821059, z: 0.01791569, w: 0.99963176}
+  m_LocalPosition: {x: -0.077614024, y: -0.000000022884763, z: 0.0000000030532978}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5861890973424841359}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5778803996584753615
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 312995334949089777}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightD_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &312995334949089777
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5778803996584753615}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.006541094, y: -0.02699429, z: 0.02526516, w: 0.9992949}
+  m_LocalPosition: {x: -0.0893609, y: -0.000000024151355, z: 0.000000006108031}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5214009746994289742}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5921022793501998018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3942783590860050849}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightD_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3942783590860050849
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5921022793501998018}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.006471692, y: -0.0014443113, z: 0.00040990429, w: 0.99997795}
+  m_LocalPosition: {x: -0.09228731, y: -0.000000017220135, z: 0.000000001636526}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5214009746994289742}
+  m_Father: {fileID: 6682885993310723744}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931260620643035635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2044816027626308668}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightA_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2044816027626308668
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931260620643035635}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000838345, y: 0.000000022070866, z: 0.026317595, w: 0.99965364}
+  m_LocalPosition: {x: -0.08795868, y: 0.0000000032782583, z: 0.0000000011905844}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7670689009063344789}
+  m_Father: {fileID: 8183837354553907797}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6092722715933992100
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4922262320776949787}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightC_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4922262320776949787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6092722715933992100}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.017613076, y: 0.00019338501, z: 0.0130180465, w: 0.99976015}
+  m_LocalPosition: {x: -0.071791165, y: 0.000000009834766, z: -0.000000006739226}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9114513872491255343}
+  m_Father: {fileID: 250294765743604240}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6184644958745612595
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6173778056157804355}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightB_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6173778056157804355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6184644958745612595}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.006466046, y: -0.0006798316, z: 0.010807897, w: 0.9999205}
+  m_LocalPosition: {x: -0.10538483, y: -0.000000015208485, z: 0.0000000032011476}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5861890973424841359}
+  m_Father: {fileID: 8179928642060587923}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6217970758330181658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8183837354553907797}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightA_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8183837354553907797
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6217970758330181658}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000013206645, y: 0.00000071732694, z: -0.0015675767, w: 0.9999988}
+  m_LocalPosition: {x: -0.08536204, y: -0.000000016689295, z: 5.1893806e-10}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2044816027626308668}
+  m_Father: {fileID: 5119044960724138209}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6238433293502105789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5484466438643950278}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftA_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5484466438643950278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6238433293502105789}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.04831796, y: 0.97469604, z: 0.05483032, w: -0.21125062}
+  m_LocalPosition: {x: -0.009243612, y: -0.06880128, z: -0.028000025}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3793141181735341838}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -7.314, y: 204.195, z: 4.106}
+--- !u!1 &6250993637662694054
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6732372711632311476}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftC_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6732372711632311476
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6250993637662694054}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.01471216, y: 0.0005941263, z: 0.00072399736, w: 0.99989134}
+  m_LocalPosition: {x: -0.09962902, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 566666675443254573}
+  m_Father: {fileID: 3790168901348250111}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6349972881800264402
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9114513872491255343}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightC_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9114513872491255343
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6349972881800264402}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.014712085, y: 0.00059412624, z: -0.0007239974, w: 0.99989134}
+  m_LocalPosition: {x: -0.09962899, y: 0.000000009662475, z: 4.0948145e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9038062281117418286}
+  m_Father: {fileID: 4922262320776949787}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6386717198298824298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7360886453582334775}
+  m_Layer: 0
+  m_Name: HumboldtSquid_Mantle_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7360886453582334775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6386717198298824298}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.028558785, w: 0.9995921}
+  m_LocalPosition: {x: -0.32143557, y: -0.0000002816692, z: 0.000000039402305}
+  m_LocalScale: {x: 0.99999976, y: 0.99999976, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 469425012451119963}
+  m_Father: {fileID: 8449277347786295963}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6572114915923052785
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8410151841320708203}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftB_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8410151841320708203
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572114915923052785}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.015334149, y: 0.0022072287, z: 0.010133718, w: 0.99982864}
+  m_LocalPosition: {x: -0.09973793, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.99999976, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6489705304002112590}
+  m_Father: {fileID: 3592173009136917946}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6670805986837844239
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7329132338561449604}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftB_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7329132338561449604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6670805986837844239}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.014706522, y: 0.00070806383, z: -0.0068827975, w: 0.9998679}
+  m_LocalPosition: {x: -0.098053284, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000004, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7061965620714228426}
+  m_Father: {fileID: 8214998556299889116}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6793217216551005683
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2448488887466787271}
+  m_Layer: 0
+  m_Name: HumboldtSquid_FinRight_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2448488887466787271
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6793217216551005683}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.5649863, y: 0.43150342, z: -0.45515606, w: 0.53612345}
+  m_LocalPosition: {x: -0.22021665, y: -0.033410568, z: 0.03900006}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 428504563032694497}
+  m_Father: {fileID: 469425012451119963}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6948502993513723743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5861890973424841359}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightB_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5861890973424841359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6948502993513723743}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.015334245, y: 0.0022072277, z: -0.010133718, w: 0.99982864}
+  m_LocalPosition: {x: -0.09973796, y: -0.0000000010243977, z: 0.000000011099791}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5090898321255434589}
+  m_Father: {fileID: 6173778056157804355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6993000574485380463
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9157067758303407221}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftA_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9157067758303407221
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6993000574485380463}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000024096371, y: 0.00000023584597, z: -0.010732683, w: 0.9999424}
+  m_LocalPosition: {x: -0.10386118, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.9999997, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4612802380256613346}
+  m_Father: {fileID: 5304217677620182557}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7209663039630983397
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7293366265391010647}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftD_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7293366265391010647
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7209663039630983397}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.017612625, y: 0.00022084104, z: -0.015494386, w: 0.9997248}
+  m_LocalPosition: {x: -0.06039564, y: 0, z: -0.000000019073486}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1929509833447407260}
+  m_Father: {fileID: 1458975102652953507}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7303195644521635036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2711698491826562704}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleRight_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2711698491826562704
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7303195644521635036}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.1657019, y: -0.85688466, z: 0.44692653, w: -0.19633709}
+  m_LocalPosition: {x: 0.011982059, y: 0.002630596, z: 0.048999965}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2882181081681596005}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: 135.504, y: 317.206, z: 139.898}
+--- !u!1 &7306828231845318006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7518044666788985223}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftD_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7518044666788985223
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7306828231845318006}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.01549998, y: 0.009554597, z: -0.017981242, w: 0.99967253}
+  m_LocalPosition: {x: -0.091161676, y: 0.000000038146972, z: 0.000000057220458}
+  m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7081131665517150325}
+  m_Father: {fileID: 7244236175772655384}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7574853474884410806
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8179928642060587923}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightB_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8179928642060587923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7574853474884410806}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.003358317, y: 0.00022348142, z: 0.044259112, w: 0.99901444}
+  m_LocalPosition: {x: -0.11058206, y: 0.000000021492582, z: -2.0949414e-10}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6173778056157804355}
+  m_Father: {fileID: 5400914985534242606}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7652138100667185741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2097237784521269047}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightD_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2097237784521269047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7652138100667185741}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.014708323, y: 0.0006276619, z: 0.0058472673, w: 0.9998746}
+  m_LocalPosition: {x: -0.108094595, y: 0.000000008768406, z: 1.4871113e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6682885993310723744}
+  m_Father: {fileID: 435362085701916723}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7783038616302623362
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9099668768311481246}
+  m_Layer: 0
+  m_Name: HumboldtSquid_SyphonBack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9099668768311481246
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7783038616302623362}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000008421234, y: -0.000000003000252, z: -0.019285912, w: 0.99981403}
+  m_LocalPosition: {x: -0.032568436, y: -0.030805947, z: 0.000000028610229}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2461265345662424769}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7897874063364033570
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 566666675443254573}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftC_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &566666675443254573
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7897874063364033570}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0033454408, y: 0.00044518814, z: -0.048606515, w: 0.9988123}
+  m_LocalPosition: {x: -0.09604721, y: 0, z: -0.0000000047683715}
+  m_LocalScale: {x: 1.0000001, y: 0.9999996, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1481344337546478786}
+  m_Father: {fileID: 6732372711632311476}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8324724971150695228
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1929509833447407260}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftD_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1929509833447407260
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8324724971150695228}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.014708138, y: 0.00062742457, z: -0.005847264, w: 0.9998746}
+  m_LocalPosition: {x: -0.10809452, y: -0.000000076293944, z: -0.000000047683713}
+  m_LocalScale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4698079013929344732}
+  m_Father: {fileID: 7293366265391010647}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8549351837037014837
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1458975102652953507}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftD_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1458975102652953507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8549351837037014837}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.08803978, y: 0.19173464, z: 0.9360686, w: -0.28153586}
+  m_LocalPosition: {x: 0.00072299957, y: 0.064630486, z: -0.030000016}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7293366265391010647}
+  m_Father: {fileID: 2227454164989350741}
+  m_LocalEulerAnglesHint: {x: -24.112, y: 3.572, z: -147.284}
+--- !u!1 &8585202594438358840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7185154805270606595}
+  m_Layer: 0
+  m_Name: HumboldtSquid_FinRight_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7185154805270606595
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8585202594438358840}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000953583, y: 0.000000013201942, z: -0.013843239, w: 0.9999042}
+  m_LocalPosition: {x: -0.08288851, y: 0.000009841919, z: -0.000000014305114}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1063804294608336625}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8736725472071774052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2007072968195673576}
+  - component: {fileID: 722038499470374619}
+  m_Layer: 0
+  m_Name: SK_HumboldtSquid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2007072968195673576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8736725472071774052}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8734610510462706018}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &722038499470374619
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8736725472071774052}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d2ad4d11788b4ee408b3ed776750f600, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -1842783204613094708, guid: c9dbfd31e32224e4599b09354ea43e3e, type: 3}
+  m_Bones:
+  - {fileID: 8449277347786295963}
+  - {fileID: 2227454164989350741}
+  - {fileID: 469425012451119963}
+  - {fileID: 7360886453582334775}
+  - {fileID: 4612802380256613346}
+  - {fileID: 2541893315269153673}
+  - {fileID: 1469313720729573013}
+  - {fileID: 2712401347038039480}
+  - {fileID: 8214998556299889116}
+  - {fileID: 7329132338561449604}
+  - {fileID: 7061965620714228426}
+  - {fileID: 3592173009136917946}
+  - {fileID: 8410151841320708203}
+  - {fileID: 6489705304002112590}
+  - {fileID: 5009575213276799807}
+  - {fileID: 3790168901348250111}
+  - {fileID: 6732372711632311476}
+  - {fileID: 566666675443254573}
+  - {fileID: 1481344337546478786}
+  - {fileID: 7715713985700063689}
+  - {fileID: 9157067758303407221}
+  - {fileID: 2461265345662424769}
+  - {fileID: 9099668768311481246}
+  - {fileID: 1386940242788081722}
+  - {fileID: 2448488887466787271}
+  - {fileID: 3608693029753947000}
+  - {fileID: 428504563032694497}
+  - {fileID: 2024372471577949873}
+  - {fileID: 1063804294608336625}
+  - {fileID: 3793141181735341838}
+  - {fileID: 5304217677620182557}
+  - {fileID: 8308055351513700064}
+  - {fileID: 1764167424541809609}
+  - {fileID: 2811297848808216156}
+  - {fileID: 2882181081681596005}
+  - {fileID: 2711698491826562704}
+  - {fileID: 8304179517885647551}
+  - {fileID: 2538709293382875652}
+  - {fileID: 7651661415504309736}
+  - {fileID: 5455351352243236223}
+  - {fileID: 4013337469968032748}
+  - {fileID: 917308859139167565}
+  - {fileID: 5562385287505869022}
+  - {fileID: 7677763545650881893}
+  - {fileID: 5303063189613804250}
+  - {fileID: 6444462150650019724}
+  - {fileID: 5484466438643950278}
+  - {fileID: 715836902172915902}
+  - {fileID: 5995986383245861640}
+  - {fileID: 7022719867803104006}
+  - {fileID: 1458975102652953507}
+  - {fileID: 7293366265391010647}
+  - {fileID: 7852172126591392272}
+  - {fileID: 435362085701916723}
+  - {fileID: 2866804309171211918}
+  - {fileID: 685384875930271025}
+  - {fileID: 1929509833447407260}
+  - {fileID: 4698079013929344732}
+  - {fileID: 2097237784521269047}
+  - {fileID: 7244236175772655384}
+  - {fileID: 7518044666788985223}
+  - {fileID: 7081131665517150325}
+  - {fileID: 8616882160173249841}
+  - {fileID: 3199870545073260927}
+  - {fileID: 3148513127937188339}
+  - {fileID: 250294765743604240}
+  - {fileID: 4922262320776949787}
+  - {fileID: 6544616287932218560}
+  - {fileID: 7185154805270606595}
+  - {fileID: 4835180507251631268}
+  - {fileID: 5400914985534242606}
+  - {fileID: 9114513872491255343}
+  - {fileID: 9038062281117418286}
+  - {fileID: 8677173333420632636}
+  - {fileID: 5119044960724138209}
+  - {fileID: 8183837354553907797}
+  - {fileID: 2044816027626308668}
+  - {fileID: 8179928642060587923}
+  - {fileID: 6173778056157804355}
+  - {fileID: 2156080879604547369}
+  - {fileID: 6682885993310723744}
+  - {fileID: 3942783590860050849}
+  - {fileID: 5214009746994289742}
+  - {fileID: 312995334949089777}
+  - {fileID: 7670689009063344789}
+  - {fileID: 5861890973424841359}
+  - {fileID: 5090898321255434589}
+  - {fileID: 1229021916454328212}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 2227454164989350741}
+  m_AABB:
+    m_Center: {x: -0.11928034, y: -0.038890287, z: 0.0000004172325}
+    m_Extent: {x: 1.2576771, y: 0.3693064, z: 0.37900797}
+  m_DirtyAABB: 0
+--- !u!1 &8837930058305236488
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5119044960724138209}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmRightA_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5119044960724138209
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8837930058305236488}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.010732736, w: 0.9999424}
+  m_LocalPosition: {x: -0.10386118, y: 0.000000018402922, z: 4.994732e-10}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8183837354553907797}
+  m_Father: {fileID: 7022719867803104006}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8844368364106704584
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5455351352243236223}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleLeft_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5455351352243236223
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8844368364106704584}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000020927466, y: -0.00082947436, z: 0.006490241, w: 0.9999786}
+  m_LocalPosition: {x: -0.18084018, y: -0.000000019073486, z: -0.0000000020861626}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7651661415504309736}
+  m_Father: {fileID: 4013337469968032748}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8878246179967795843
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1063804294608336625}
+  m_Layer: 0
+  m_Name: HumboldtSquid_FinRight_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1063804294608336625
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8878246179967795843}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000020684363, y: -0.000000011138906, z: -0.0053851036, w: 0.9999855}
+  m_LocalPosition: {x: -0.091150165, y: 0.000000076293944, z: 0.000000014305114}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7185154805270606595}
+  m_Father: {fileID: 428504563032694497}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9006631406572543850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2024372471577949873}
+  m_Layer: 0
+  m_Name: HumboldtSquid_FinLeft_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2024372471577949873
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9006631406572543850}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000020716511, y: -0.000000011156301, z: 0.0053851437, w: 0.9999855}
+  m_LocalPosition: {x: -0.091150224, y: -0.00000005573036, z: -7.1054206e-17}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6444462150650019724}
+  m_Father: {fileID: 3608693029753947000}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9018089256043749757
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1469313720729573013}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftA_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1469313720729573013
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9018089256043749757}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000067122926, y: -0.0000012174269, z: -0.03653167, w: 0.99933255}
+  m_LocalPosition: {x: -0.07866172, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999998, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2541893315269153673}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9073725487001321026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1481344337546478786}
+  m_Layer: 0
+  m_Name: HumboldtSquid_ArmLeftC_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1481344337546478786
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9073725487001321026}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0064567546, y: -0.0016859189, z: -0.017897274, w: 0.99981755}
+  m_LocalPosition: {x: -0.09293312, y: -0.000000076293944, z: -0.000000009536743}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7715713985700063689}
+  m_Father: {fileID: 566666675443254573}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9197304364792886403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1764167424541809609}
+  m_Layer: 0
+  m_Name: HumboldtSquid_TentacleRight_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1764167424541809609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9197304364792886403}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000020907155, y: -0.00083120685, z: -0.0064894957, w: 0.9999786}
+  m_LocalPosition: {x: -0.18084045, y: 0, z: -0.000000005662441}
+  m_LocalScale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8308055351513700064}
+  m_Father: {fileID: 2811297848808216156}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
