@@ -38,7 +38,7 @@ Material:
     m_TexEnvs:
     - _FoamTex:
         m_Texture: {fileID: 2800000, guid: 4e2deb17f432ed243a6c33f24c21aa73, type: 3}
-        m_Scale: {x: 10, y: 10}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalTex:
         m_Texture: {fileID: 2800000, guid: 2a33e02fb807b0d44b2eaae630a205d9, type: 3}
@@ -61,19 +61,19 @@ Material:
     - UseFoam: 1
     - _Blur: 1.5
     - _Displacement: 0
-    - _DisplacementLOD: 3
+    - _DisplacementLOD: 5.77
     - _Distortion: 0.3
-    - _Foam: 500
+    - _Foam: 497.25
     - _FoamOffset: -1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Samples: 8
     - _ScreenDistortion: 0.25
     - _ShorelineWidth: 1
-    - _Shoreline_Wave_Speed: 0.2
+    - _Shoreline_Wave_Speed: 1
     - _WaterDepth: 0.1
     m_Colors:
-    - _DeepColor: {r: 0, g: 0.183, b: 0.15572049, a: 0.9490196}
-    - _FlowSpeed: {r: 0.3, g: 0, b: 0, a: 0}
+    - _DeepColor: {r: 0.123398006, g: 0.31082538, b: 0.4433962, a: 0.9490196}
+    - _FlowSpeed: {r: 0.01, g: 0, b: 0, a: 0}
     - _ShallowColor: {r: 0, g: 0, b: 0, a: 0.5019608}
   m_BuildTextureStacks: []
